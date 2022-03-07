@@ -36,7 +36,7 @@ Predecir notas finales de un curso de un estudiando con respecto a ciertas carac
 
 Algunos enlaces importantes
 
-- [Video](https://github.com/matiassingers/awesome-readme)
+- [Video](https://youtu.be/OI81V1BZkOU)
 - [Repositorio](https://github.com/csanjuan99/ia-students-predictions-project)
 - [Codigo](https://github.com/csanjuan99/ia-students-predictions-project)
 
